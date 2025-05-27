@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the official home of the DFFL (Dynasty Football Fanatics League), founded in 2024! This is where 12 fierce managers compete to etch their names in fantasy football history, building dynasties through cunning strategy and epic rivalries.</p>
+  <p>Welcome to the official home of the DFFL, founded in 2024! This is where 12 fierce managers compete to etch their names in fantasy football history, building dynasties through cunning strategy and epic rivalries.</p>
   <p>From live-scoring showdowns to blockbuster trades on the block, the DFFL is the heart of our passion for the game. Check out our rules, stay in the loop with announcements, and immerse yourself in the action.</p>
   <p>Whether you're a founding fanatic or chasing the championship, this is your hub for all things DFFL—let's forge a legacy together!</p>
 `;
