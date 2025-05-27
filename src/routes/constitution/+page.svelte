@@ -284,7 +284,7 @@
     <h2 class="sectionHeading" bind:this={eight}>Section 8: League Finances</h2>
 
     <h3 class="subSectionHeading" bind:this={eightOne}>8.1 League Dues</h3>
-    <p>League dues are $100 per team, collected via <a href="https://www.leaguesafe.com/league/3949641">LeagueSafe</a> by August 1.</p>
+    <p>League dues are $100 per team.</p>
     <p>Managers must pay in full before the regular season starts. Late payments incur a $10 penalty (10% of dues), which is added to the end-of-year payouts.</p>
 
     <h3 class="subSectionHeading" bind:this={eightTwo}>8.2 Payout</h3>
