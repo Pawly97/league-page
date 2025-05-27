@@ -41,6 +41,7 @@
         text-decoration: underline;
         font-size: 1.3em;
         line-height: 1.2em;
+        margin-left: 2em; /* Indent subsections in table of contents */
     }
 
     h4 {
@@ -60,6 +61,7 @@
 
     .subSectionHeading {
         margin: 1.5em 0 1.5em;
+        margin-left: 2em; /* Indent subsections in content */
     }
 
     .underscore {
@@ -84,7 +86,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
+    <h1 class="noUnderscore">DFFL CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
